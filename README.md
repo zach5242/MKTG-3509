@@ -22,7 +22,7 @@ Hello my name is Zach and this is my portfolio for MKTG-3509,
 8. **Module 8: Discrete Outcomes and Logit**
 - [A8 Logit](https://github.com/zach5242/MKTG-3509/blob/main/A8_F2021_Logit.ipynb)
 9. **Module 9: CLustering and Segmentation**
-- [A9 Segmentation (retail transactions and behavior segmentation)]
+- [A9 Segmentation (retail transactions and behavior segmentation)](https://github.com/zach5242/MKTG-3509/blob/main/A9_F2021_Segmentation.ipynb)
 10. **Module 10: Text Analysis**
 - [A10 Vegas Resorts Text Mining](https://github.com/zach5242/MKTG-3509/blob/main/A10_Text_Analysis_Tutorial.ipynb)
 11. **Module 11: Use Github to create Your Assignment Portfolio**
