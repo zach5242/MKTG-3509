@@ -26,4 +26,4 @@ Hello my name is Zach and this is my portfolio for the assignments I completed i
 10. **Module 10: Text Analysis**
 - [A10 Vegas Resorts Text Mining](https://github.com/zach5242/MKTG-3509/blob/main/A10_Text_Analysis_Tutorial.ipynb)
 11. **Module 11: Use Github to create Your Assignment Portfolio**
-- [A11 Market Your Customer Data Analytics Skills](https://github.com/zach5242/MKTG-3509/edit/main/README.md)
+- [A11 Market Your Customer Data Analytics Skills](https://github.com/zach5242/MKTG-3509/blob/main/README.md)
