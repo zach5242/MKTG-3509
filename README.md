@@ -7,4 +7,4 @@ Hello my name is Zach and this is my portfolio for MKTG-3509,
 ##Table of Contents
 1. **Module 1: Using Colab**
 - [A1: Markdown CV] 
-[sample doc](A1 Zach Roosa.ipynb)
+A1 Zach Roosa.ipynb
