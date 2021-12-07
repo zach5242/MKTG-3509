@@ -1,4 +1,4 @@
-# MKTG-3509
+# MKTG-3509 Portfolio
 Hello my name is Zach and this is my portfolio for MKTG-3509, 
 
 ## My Resume
